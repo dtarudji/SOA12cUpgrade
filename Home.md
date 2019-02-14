@@ -2,7 +2,7 @@
 
 ![](images/j2c-logo.png)
 
-> Updated: June 11th, 2018
+> Updated: February, 2019
 
 ## Journey To The Cloud: Oracle SOA Cloud Service - Enterprise Integration Hands On Lab - 
 
