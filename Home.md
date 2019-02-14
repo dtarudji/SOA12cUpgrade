@@ -1,4 +1,4 @@
-# Oracle SOA Cloud Service (SOACS) Developer Workshop
+# Oracle SOA Cloud Service (SOACS) Migration Lab Workshop
 
 ![](images/j2c-logo.png)
 
