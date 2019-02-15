@@ -6,4 +6,7 @@
 
 ## Supported Browsers
 
-Most modern browsers including Chrome, Safari, Internet Explorer, Edge and Firefox are supported.
+Most modern browsers: Chrome, Safari, Internet Explorer, Edge and Firefox are supported.
+## IDE
+
+Please download JDeveloper 12c
