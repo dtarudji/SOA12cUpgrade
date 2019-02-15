@@ -12,7 +12,7 @@ Oracle SOA Cloud Service provides a PaaS computing platform for running Oracle S
 
 Enterprises can innovate faster, improve customer engagement, drive business-process efficiency, and accelerate digital transformation with Oracle Cloud. Oracle is the enterprise technology partner that positions companies for tomorrow, today; empowering businesses of all sizes on their journey of digital transformation. Oracle Cloud provides leading-edge capabilities in software as a service, platform as a service, infrastructure as a service, and data as a service.
 
-At Oracle we have invested in delivering a plethora of new Cloud Services and we want to show migration steps from OCI classic. We specifically wanted to focus on low code, high productivity services and artifacts that can be used in building enterprise grade solutions. In the labe a real world business solution comprised of composite services. You will migrate existing SOA solution on OCI classic to OCI, all in a controlled environment. 
+At Oracle we have invested in delivering a plethora of new Cloud Services and we want to show migration steps from OCI classic. We specifically wanted to focus on low code, high productivity services and artifacts that can be used in building enterprise grade solutions. In the hands-on lab a real world business solution comprised of composite services. You will migrate existing SOA artifacts on OCI classic to OCI, all in a controlled environment. 
 
 This workshop will focus on migrating the SOA artifacts and considerations.
 
