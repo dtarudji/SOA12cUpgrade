@@ -14,7 +14,7 @@ Enterprises can innovate faster, improve customer engagement, drive business-pro
 
 At Oracle we have invested in delivering a plethora of new Cloud Services and we want to show migration steps from OCI classic. We specifically wanted to focus on low code, high productivity services and artifacts that can be used in building enterprise grade solutions. In the hands-on lab a real world business solution comprised of composite services. You will migrate existing SOA artifacts on OCI classic to OCI, all in a controlled environment. 
 
-This workshop will focus on migrating the SOA artifacts and considerations.
+This workshop will focus on migrating the SOA objects in SAR and considerations.
 
 ## Hands-on Lab Overview
 
