@@ -2,12 +2,12 @@
 
 # SOACS OCI-Upgrade Workshop Prerequisites
 
-## Required 3rd Party Testing Tools
+#### Required 3rd Party Testing Tools
 
 SOAPui
-## Supported Browsers
+#### Supported Browsers
 
 Most modern browsers: Chrome, Safari, Internet Explorer, Edge and Firefox are supported.
-## IDE
+#### IDE
 
 Please download JDeveloper 12c
