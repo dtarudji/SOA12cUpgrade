@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This is the second of several labs that are part of the **SOACS** Workshop. 
+This is the second labs that are part of the **SOACS** Workshop. 
 
 This lab is broken down into the following parts –
 
@@ -14,11 +14,11 @@ This lab is broken down into the following parts –
 
 - Deploying the composite via Oracle Enterprise Manager Fusion Middleware Control (EM FMWC).
 
-The activities in this document aim to introduce you to key new features such as:
+The activities in this document aim to cover features such as:
 
-- Design Times in JDeveloper – SOA
+- SOA Design Times in JDeveloper – SOA
 
-- Lift and Shift SOA Composites to SOACS
+- Lift and Shift SOA Composites - SOACS on OCI Classic to OCI
 
 ## Validate Payment: SOA Composites 
 
@@ -29,7 +29,7 @@ The business has indicated that a new credit card fraud detection system must be
 
 The first step will be to provide a consistent interface to all order entry applications for credit validation.  Initially, the consolidated credit validation service will be hosted in-house to control quality; however, once the interface has been stabilized, this service will be outsourced to a third party provider.  So what will be done now, means that, in the future, when Avitek decides to outsource credit validation to an external provider, this can be accomplished without impacting existing applications.  
 
-In this section, you will build your SOA Suite 12c composite. This composite will provide a consistent interface to all order entry applications for credit validation.
+In this section, you will build your SOA Suite 12c composite. This composite will provide a consistent experience to all order entry applications for credit validation.
 
 ## Pre-requisites
 
