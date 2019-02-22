@@ -1,6 +1,6 @@
 <img class="float-right" src="images/j2c-logo.png">
 
-# Lab 200 - Development of ValidatePayment Composite
+# Lab 200 - Development and Deployment ValidatePayment Composite
 
 ---
 
@@ -18,7 +18,7 @@ The activities in this document aim to cover features such as:
 
 - SOA Design Times in JDeveloper – SOA
 
-- Lift and Shift SOA Composites - SOACS on OCI Classic to OCI
+- Upgrade and move SOA Composites - SOACS from OCI Classic to OCI
 
 ## Validate Payment: SOA Composites 
 
