@@ -31,36 +31,14 @@ The first step will be to provide a consistent interface to all order entry appl
 
 In this section, you will build your SOA Suite 12c composite. This composite will provide a consistent experience to all order entry applications for credit validation.
 
-## Pre-requisites
-
-### VNC
-
-- VNCViewer has been downloaded and installed on your machine. VNCViewer is available for various operating systems here - https://www.realvnc.com/en/connect/download/viewer/
-
-- Configure VNC Viewer. Click File->New Connection
-
-    ![](images/validatePayment/image228.png)
-
-- Enter the VNC Server **IP:Port** and an optional name for the instance. Click **OK**
-
-    ![](images/validatePayment/image230.png)
-
-- Double click the newly created instance and enter the password for the VNC Server when prompted and click **OK**
-
-    ![](images/validatePayment/image231.png)
-
-### Resources
-
-- Tutorial resources have been downloaded and unzipped to a directory of your choice. When referring to any resources in the following chapters (for example **wsdl** or **sample input**), we will always refer to directories, relative to the unzipped location e.g. 
-**~\Resources**. For example **~\Resources\sample_input\input.xml**.
 
 ## High-Level Steps
 
 -   Create Datasources and update the Database Adapter
 
--   Start JDeveloper
+-   Start JDeveloper 12.2.1.3.0
 
--	Open the SOA composite application provided
+-	Open the SOA composite application provided from Confluence
 
 -	Review the various components of the composite
 
@@ -74,7 +52,7 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
 -	Deploy and test the project
 
-## Steps in Detail
+## Walk through the steps in details
 
 **Create Datasources and update the Database Adapter**
 
@@ -551,3 +529,29 @@ The Oracle Enterprise Manager Fusion Middleware Control allows you to test your 
     ![](images/validatePayment/image115.png)
 
 Congratulations - you have just completed the lab!
+
+-     End of Lab 200
+-     Addendum
+
+
+## Pre-requisites - from OLD Lab
+## VNC
+
+- VNCViewer has been downloaded and installed on your machine. VNCViewer is available for various operating systems here - https://www.realvnc.com/en/connect/download/viewer/
+
+- Configure VNC Viewer. Click File->New Connection
+
+    ![](images/validatePayment/image228.png)
+
+- Enter the VNC Server **IP:Port** and an optional name for the instance. Click **OK**
+
+    ![](images/validatePayment/image230.png)
+
+- Double click the newly created instance and enter the password for the VNC Server when prompted and click **OK**
+
+    ![](images/validatePayment/image231.png)
+
+### Resources
+
+- Tutorial resources have been downloaded and unzipped to a directory of your choice. When referring to any resources in the following chapters (for example **wsdl** or **sample input**), we will always refer to directories, relative to the unzipped location e.g. 
+**~\Resources**. For example **~\Resources\sample_input\input.xml**.
