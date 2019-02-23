@@ -18,7 +18,7 @@ If you don't have the user name, password, and web console URL, contact your org
 # Creating and Provisioning a SOACS Instance
 
 - Open a browser window and go to Oracle Cloud My Services:
-***https://myservices.DC_code.oraclecloud.com***
+***https://myservices-yourtenancyname.console.oraclecloud.com***
 
 - Sign in to your Services Console using your identity domain, user name and password.
 
