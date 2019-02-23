@@ -1,6 +1,6 @@
 <img class="float-right" src="images/j2c-logo.png">
 
-# Lab 200 - Development and Deployment ValidatePayment Composite
+# Lab 200 - Development, Migration and Re-deployment ValidatePayment Composite
 
 ---
 
