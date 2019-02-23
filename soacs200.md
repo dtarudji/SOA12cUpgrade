@@ -112,7 +112,7 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
 - Enter the connection details to the DBCS instance for the data source.
 
-    The database name, host name and port are obtained from the pre-configured DBCS instance (SOACSDBStudent`X`) where `X` is the alloted student number. Please refer to the details provided to you at the time of workshop for filling the Database information.
+    The database name, host name and port are obtained from the pre-configured DBaaS instance . Please refer to the details provided to you at the time of workshop for filling the Database information.
     
     - **Database Name:** Per details shared
 
@@ -120,11 +120,11 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
     - **Port:** 1521
 
-    - **Database User Name:** soademo
+    - **Database User Name:** soacs
 
-    - **Password:** soademo
+    - **Password:** "will be provided"
 
-    - **Confirm Password:** soademo
+    - **Confirm Password:** ....
 
         ![](images/validatePayment/image170.png)
     
