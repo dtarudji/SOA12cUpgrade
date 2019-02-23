@@ -534,7 +534,7 @@ Congratulations - you have just completed the lab!
 -     Addendum
 
 
-## Pre-requisites - from OLD Lab
+## Pre-requisites - in the OLD Lab
 ## VNC
 
 - VNCViewer has been downloaded and installed on your machine. VNCViewer is available for various operating systems here - https://www.realvnc.com/en/connect/download/viewer/
