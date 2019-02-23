@@ -16,9 +16,11 @@ This lab is broken down into the following parts –
 
 The activities in this document aim to cover features such as:
 
-- SOA Design Times in JDeveloper – SOA
+- SOA Design Times in JDeveloper for SOA. This can be downloaded from https://bit.ly/2STiSVM
 
 - Upgrade and move SOA Composites - SOACS from OCI Classic to OCI
+- e2e-1201-sample.zip, it's tutorial leads you step by step through building a process order application with Oracle SOA Suite 12c. The focus today is to build ONLY validatePayment
+-  Please download this zip file from https://bit.ly/2U60LZo
 
 ## Validate Payment: SOA Composites 
 
@@ -146,7 +148,7 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
     ![](images/validatePayment/image180.png)
 
-- Set the **JNDI Name** to ***eis/DBCS/SOADEMO***. Click **Finish**.
+- Set the **JNDI Name** to ***eis/DBCS/SOACS***. Click **Finish**.
 
     ![](images/validatePayment/image197.png)
 
@@ -154,11 +156,11 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
     ![](images/validatePayment/image198.png)
 
-- Click on the newly created Outbound Connection ***eis/DBCS/SOADEMO***.
+- Click on the newly created Outbound Connection ***eis/DBCS/SOACS***.
 
     ![](images/validatePayment/image199.png)
 
-- Set the XADataSourceName to **jdbc/soademo**. Hit **Enter** on the keyboard. Click **Save**.
+- Set the XADataSourceName to **jdbc/soacs**. Hit **Enter** on the keyboard. Click **Save**.
 
     ![](images/validatePayment/image200_001.png)
 
@@ -243,9 +245,9 @@ Open the SOA Composite application provided.
 
     ![](images/validatePayment/image218.png)
 
--	 Browse to **e2e-1201-composites.jws** from **~\Resources\SOA** folder.
+-	 Browse to **e2e-1201-composites.jws** from **~\your unzip\ ** folder.
 
-        ***Note:*** You may have to open the application from **/u02/training/SOAJdevProjects/e2e-1201-composites** folder if connected to a remote server through VNC or other software.
+        ***Note:*** You may have to open the application from **/u02/training/SOAJdevProjects/e2e-1201-composites** folder if instructed to connect to a remote server through VNC or other software.
 
 -   A project **“ValidatePayment”** is opened with some predefined components. 
 
@@ -274,7 +276,7 @@ Open the SOA Composite application provided.
 
 - Click **Next**.
 
-- Change the JNDI name to ***eis/DBCS/SOADEMO***. Click on the edit (pencil) icon for the connection **SOA**.
+- Change the JNDI name to ***eis/DBCS/SOACS***. Click on the edit (pencil) icon for the connection **SOA**.
 
     ![](images/validatePayment/image181.png)
 
@@ -284,9 +286,9 @@ Open the SOA Composite application provided.
 
     **Connection Type:** Oracle (JDBC)
 
-    **Username:** soademo
+    **Username:** soacs
 
-    **Password:** soademo
+    **Password:** SoaCS123!#
 
     **Driver:** thin
 
