@@ -78,7 +78,7 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
     ![](images/validatePayment/image166.png)
 
-- Enter the **Name** as **`SOACS_Demo_DS`** and enter the **JNDI Name** as **jdbc/soademo**. Click **Next**.
+- Enter the **Name** as **`SOACS_DB`** and enter the **JNDI Name** as **jdbc/soacs**. Click **Next**.
 
     ![](images/validatePayment/image167.png)
 
@@ -94,7 +94,7 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
     The database name, host name and port are obtained from the pre-configured DBaaS instance . Please refer to the details provided to you at the time of workshop for filling the Database information.
     
-    - **Database Name:** PSOADT_iad19n.sub02042105260.soacsmigrationd.oraclevcn.com
+    - **Database Name:**  SOADT_iad19n.sub02042105260.soacsmigrationd.oraclevcn.com
 
     - **Host Name:** 132.145.133.157
 
