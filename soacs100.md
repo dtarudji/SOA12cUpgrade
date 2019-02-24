@@ -7,7 +7,7 @@
 # Objectives
 
 - In this activity, you provision your Oracle SOA Cloud Service Instance.
-- Due to time and resource constraints, this activity would be presented as demo slides
+- ** Due to time and resource constraints, this activity would be presented as demo slides **
 
 ## Required Artifacts
 
