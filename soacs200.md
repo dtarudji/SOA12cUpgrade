@@ -19,8 +19,8 @@ The activities in this document aim to cover features such as:
 - SOA Design Times in JDeveloper for SOA. This can be downloaded from https://bit.ly/2STiSVM
 
 - Upgrade and move SOA Composites - SOACS from OCI Classic to OCI
-- e2e-1201-sample.zip, it's tutorial leads you step by step through building a process order application with Oracle SOA Suite 12c. The focus today is to build ONLY validatePayment
--  Please download this zip file from https://bit.ly/2U60LZo
+- SOASuite12c_Tutorial.zip, leads you step by step through building a process order application with Oracle SOA Suite 12c. The focus today is **to build ONLY** validatePayment
+-  Please download this zip file from https://bit.ly/2Sm7Xin
 
 ## Validate Payment: SOA Composites 
 
