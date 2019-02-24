@@ -94,15 +94,15 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
     The database name, host name and port are obtained from the pre-configured DBaaS instance . Please refer to the details provided to you at the time of workshop for filling the Database information.
     
-    - **Database Name:** Per details shared
+    - **Database Name:** PSOADT_iad19n.sub02042105260.soacsmigrationd.oraclevcn.com
 
-    - **Host Name:** Per details shared
+    - **Host Name:** 132.145.133.157
 
     - **Port:** 1521
 
     - **Database User Name:** soacs
 
-    - **Password:** "will be provided"
+    - **Password:** SoaCS123!#
 
     - **Confirm Password:** ....
 
@@ -183,6 +183,9 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 - Click **Activate Changes** and make sure there are no errors.
 
     ![](images/validatePayment/image206.png)
+
+**NOTE:** database password: WelcomE-#10
+
 
 **Start JDeveloper**
 
