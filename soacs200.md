@@ -12,7 +12,7 @@ This lab is broken down into the following parts –
 
 - Building a SOA Composite. It covers modifying the DB Adapter to reflect your particular cloud environment.
 
-- Deploying the composite via Oracle Enterprise Manager Fusion Middleware Control (EM FMWC).
+- Deploying the composite by generating SAR file and import into SOAcs via Oracle Enterprise Manager Fusion Middleware Control (EM FMWC).
 
 The activities in this document aim to cover features such as:
 
