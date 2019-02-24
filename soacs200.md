@@ -530,7 +530,7 @@ The Oracle Enterprise Manager Fusion Middleware Control allows you to test your 
 
     ![](images/validatePayment/image115.png)
 
-Congratulations - you have just completed the lab!
+## Congratulations - you have just completed the lab! ##
 
 -     End of Lab 200
 -     Addendum
