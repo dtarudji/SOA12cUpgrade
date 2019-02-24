@@ -6,7 +6,7 @@
 
 # Objectives
 
-- In this activity, you provision your Oracle SOA Cloud Service Instance.
+- In this activity, you provision your Oracle SOA Cloud Service Instance on OCI CLASSIC.
 - ** Due to time and resource constraints, this activity would be presented as demo slides **
 
 ## Required Artifacts
