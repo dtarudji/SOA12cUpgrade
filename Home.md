@@ -20,9 +20,11 @@ For SOA and MFT, the source version for side-by-side upgrade in the cloud is 12.
 
 The approach for migration and the side-by-side upgrade is the same — you’ll provision a new cloud instance of SOA Cloud Service, migrate or recreate configurations from the old source environment and then transition to the newly provisioned cloud instance.
 
-Please review migration details https://docs.oracle.com/en/cloud/paas/soa-cloud/liftshift/introduction-migration-and-side-side-upgrade-soa-and-mft-cloud-service.html#GUID-B3D0C8F7-2A71-47AE-97F6-59924A865ED2
+Please review migration details 
 
-This lab is an example on migrating the SOA objects using JDeveloper and exporting SAR files. As well as discussions.
+https://docs.oracle.com/en/cloud/paas/soa-cloud/liftshift/introduction-migration-and-side-side-upgrade-soa-and-mft-cloud-service.html#GUID-B3D0C8F7-2A71-47AE-97F6-59924A865ED2
+
+This lab is an example on migrating the SOA objects using JDeveloper and exporting SAR files. As well as time spent on PaaS architecture on OCI discussions.
 
 ## Hands-on Lab Overview
 
