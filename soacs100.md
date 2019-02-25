@@ -40,4 +40,4 @@ If you don't have the user name, password, and web console URL, contact your org
 
 
 
-This SOACS Provisioning Lab demo is presented by Greg.
+This SOACS Provisioning Lab demo in lieu of the hands-on-lab.
