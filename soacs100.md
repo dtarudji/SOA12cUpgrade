@@ -6,8 +6,8 @@
 
 # Objectives
 
-- In this activity, you provision your Oracle SOA Cloud Service Instance on the CLASSIC.
-- **for OCI, this activity would be presented as demo slides by Greg**
+- In this lab activity, you provision your Oracle SOA Cloud Service Instance on OCI when allocated lab time and OCI resources permit.
+- **for OCI, this activity would be presented as demo slides**
 
 ## Required Artifacts
 
