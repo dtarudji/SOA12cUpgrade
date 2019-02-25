@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This is the lab that is part of the **SOACS** workshop. 
+This is the lab that is part of the **SOACS** on OCI workshop. 
 
 In this lab, you will deploy the **`ValidatePayment`** composite from JDeveloper directly to SOACS on OCI and test it.
 
@@ -23,7 +23,7 @@ In this lab, you will deploy the **`ValidatePayment`** composite from JDeveloper
 After provisioning the SOA Cloud Service instance, there are a few post-provisioning steps that
 are required for deployment from JDeveloper to be successful.
 
-**Create a host entry in your environment**
+**Create a host entry in your Dev environment where JDevloper is used**
 
 - In the case of Linux - Open a terminal by Right click and **Open in Terminal**.
 
