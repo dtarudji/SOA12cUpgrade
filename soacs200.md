@@ -78,7 +78,7 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
     ![](images/validatePayment/image166.png)
 
-- Enter the **Name** as **`SOACS_DB`** and enter the **JNDI Name** as **jdbc/soacs**. Click **Next**.
+- Enter the **Name** as **`SOACS_DB`** and Please enter the **JNDI Name** as **jdbc/soacs**. This is DIFFERENT from screen Captured below Click **Next**.
 
     ![](images/validatePayment/image167.png)
 
