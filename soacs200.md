@@ -184,7 +184,7 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
     ![](images/validatePayment/image206.png)
 
-**NOTE:** database password: WelcomE-#10
+**NOTE:** database user/passwd: soacs/SoaCS123!#
 
 
 **Start JDeveloper**
