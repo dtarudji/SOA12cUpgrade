@@ -31,11 +31,11 @@ If you don't have the user name, password, and web console URL, contact your org
 
 
 
-- Custom SOA
+- Custom SOA is also presented with a button at top right corner. When you click the button, the following screen is presented
 
 
 
-    ![](images/provisioning/image033.png)
+    ![](images/provisioning/image027_002.png)
 
 
 
