@@ -11,7 +11,7 @@
 
 ## Required Artifacts
 
-- Your Oracle Cloud Infrastructure user name and password.
+- Your OCI CLASSIC user name and password.
 
 If you don't have the user name, password, and web console URL, contact your organization's Oracle Cloud administrator who subscribed to Oracle Cloud Infrastructure.
 
