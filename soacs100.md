@@ -28,7 +28,14 @@ If you don't have the user name, password, and web console URL, contact your org
 
 - On the Oracle SOA Cloud Service page, under Instances tab, click **Create Instance**.
 
-    ![](images/provisioning/image026.png)
+    ![](images/provisioning/image032.png)
+
+
+- Custom SOA
+
+
+
+    ![](images/provisioning/image033.png)
 
 
 
