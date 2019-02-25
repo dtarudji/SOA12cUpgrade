@@ -1,6 +1,6 @@
 <img class="float-right" src="images/j2c-logo.png">
 
-# Lab 100 - Provision Oracle SOAcs on Classic
+# Lab 100 - Provision Oracle SOAcs
 
 ---
 
