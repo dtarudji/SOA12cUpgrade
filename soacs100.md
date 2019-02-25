@@ -1,13 +1,13 @@
 <img class="float-right" src="images/j2c-logo.png">
 
-# Lab 100 - Provision Oracle SOA Cloud Service
+# Lab 100 - Provision Oracle SOAcs on Classic
 
 ---
 
 # Objectives
 
-- In this activity, you provision your Oracle SOA Cloud Service Instance on OCI CLASSIC.
-- ** Due to time and resource constraints, this activity would be presented as demo slides **
+- In this activity, you provision your Oracle SOA Cloud Service Instance on the CLASSIC.
+- **for OCI, this activity would be presented as demo slides by Greg**
 
 ## Required Artifacts
 
