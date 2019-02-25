@@ -33,4 +33,4 @@ If you don't have the user name, password, and web console URL, contact your org
 
 
 
-This SOACS Provisioning Lab is now completed.
+This SOACS Provisioning Lab demo is presented by Greg.
