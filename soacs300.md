@@ -6,9 +6,9 @@
 
 ## Introduction
 
-This is the third and final lab that is part of the **SOACS** workshop. 
+This is the lab that is part of the **SOACS** workshop. 
 
-In this lab, you will deploy the **`ValidatePayment`** composite from JDeveloper directly to SOACS and test it.
+In this lab, you will deploy the **`ValidatePayment`** composite from JDeveloper directly to SOACS on OCI and test it.
 
 ## Objectives
 
@@ -25,7 +25,7 @@ are required for deployment from JDeveloper to be successful.
 
 **Create a host entry in your environment**
 
-- Open a terminal by Right click and **Open in Terminal**.
+- In the case of Linux - Open a terminal by Right click and **Open in Terminal**.
 
     ![](images/jdevDeploy/image250.png)
 
