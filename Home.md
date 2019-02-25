@@ -10,11 +10,19 @@
 
 Oracle SOA Cloud Service provides a PaaS computing platform for running Oracle SOA Suite, Oracle Service Bus and orchestrating Integration in the cloud.
 
-Enterprises can innovate faster, improve customer engagement, drive business-process efficiency, and accelerate digital transformation with Oracle Cloud. Oracle is the enterprise technology partner that positions companies for tomorrow, today; empowering businesses of all sizes on their journey of digital transformation. Oracle Cloud provides leading-edge capabilities in software as a service, platform as a service, infrastructure as a service, and data as a service.
+Oracle SOAcs provides capabilities in platform as a service.
 
-At Oracle we have invested in delivering a plethora of new Cloud Services and we want to show migration steps from OCI classic. We specifically wanted to focus on low code, high productivity services and artifacts that can be used in building enterprise grade solutions. In the hands-on lab a real world business solution comprised of composite services. You will migrate existing SOA artifacts on OCI classic to OCI, all in a controlled environment. 
+There are certain pre-requisites that you should be aware of before your side-by-side upgrade in the cloud.
 
-This workshop will focus on migrating the SOA objects using JDeveloper and exporting SAR files. As well as discussions.
+Before migration/side-by-side upgrade, ensure the following:
+
+For SOA and MFT, the source version for side-by-side upgrade in the cloud is 12.1.3 or later.
+
+The approach for migration and the side-by-side upgrade is the same — you’ll provision a new cloud instance of SOA Cloud Service, migrate or recreate configurations from the old source environment and then transition to the newly provisioned cloud instance.
+
+Please review migration details https://docs.oracle.com/en/cloud/paas/soa-cloud/liftshift/introduction-migration-and-side-side-upgrade-soa-and-mft-cloud-service.html#GUID-B3D0C8F7-2A71-47AE-97F6-59924A865ED2
+
+This lab is an example on migrating the SOA objects using JDeveloper and exporting SAR files. As well as discussions.
 
 ## Hands-on Lab Overview
 
