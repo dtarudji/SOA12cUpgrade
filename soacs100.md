@@ -15,7 +15,7 @@
 
 If you don't have the user name, password, and web console URL, contact your organization's Oracle Cloud administrator who subscribed to Oracle Cloud Infrastructure.
 
-# Creating and Provisioning a SOACS Instance on OCI CLASSIC
+# Creating and Provisioning a SOACS Instance on OCI
 
 - Open a browser window and go to Oracle Cloud My Services:
 ***https://myservices-yourtenancyname.console.oraclecloud.com***
