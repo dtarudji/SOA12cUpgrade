@@ -4,7 +4,7 @@
 
 > Updated: February, 2019
 
-## Oracle SOA Cloud Service - Migration Lab - OCIclassic to OCI
+## Oracle SOA Cloud Service - Migration Lab - Classic to OCI
 
 ## Overview
 
