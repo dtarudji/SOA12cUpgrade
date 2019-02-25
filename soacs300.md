@@ -134,4 +134,4 @@ Select the checkboxes for **Mark composite revision as default** and **Overwrite
 
 **Refer to Lab 200 to test the deployed SOA composite from the Oracle EM FMWC.**
 
-You have now successfully completed all the labs of the SOACS Developer Workshop.
+You have now successfully completed all the labs of the SOACS, migration from Classic to OCI Workshop.
