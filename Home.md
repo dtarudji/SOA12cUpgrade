@@ -20,7 +20,7 @@ This workshop will focus on migrating the SOA objects in SAR and considerations.
 
 This hands-on lab will allow participants to do the following:
 
-- Lab 100 - Provision Oracle SOA Cloud Service
+- Lab 100 - Provision Oracle SOA Cloud Service - Presentation by Greg
 
 - Lab 200 - Deploy a SOA composite to Oracle SOA Cloud Service through Enterprise Manager Fusion Middleware Control
 
