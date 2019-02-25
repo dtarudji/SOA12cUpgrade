@@ -24,7 +24,7 @@ Please review migration details
 
 https://docs.oracle.com/en/cloud/paas/soa-cloud/liftshift/introduction-migration-and-side-side-upgrade-soa-and-mft-cloud-service.html#GUID-B3D0C8F7-2A71-47AE-97F6-59924A865ED2
 
-This lab is an example on migrating the SOA objects using JDeveloper and exporting SAR files. As well as time spent on PaaS architecture on OCI discussions.
+This lab is an example on migrating the SOA objects using JDeveloper and exporting SAR files. The lab time will also be spent with dicussions on SOAcs architecture on OCI.
 
 ## Hands-on Lab Overview
 
