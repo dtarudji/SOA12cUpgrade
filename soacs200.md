@@ -538,7 +538,7 @@ The Oracle Enterprise Manager Fusion Middleware Control allows you to test your 
 -     Addendum
 
 
-## Pre-requisites - in the OLD Lab
+## Pre-requisites - in Classic
 ## VNC
 
 - VNCViewer has been downloaded and installed on your machine. VNCViewer is available for various operating systems here - https://www.realvnc.com/en/connect/download/viewer/
