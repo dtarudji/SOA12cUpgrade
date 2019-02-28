@@ -26,10 +26,9 @@ The activities in this document aim to cover features such as:
 
 Avitek has embarked upon an IT modernization project to align with business goals of improving customer satisfaction. A key area of improvement will involve streamlining the order process to provide better visibility tracking of orders as they go through the steps of credit approvals, fulfillment, shipment and delivery.
 
-One key issue in the current system is that credit card payments are often denied for various, sometimes minor reasons, expired date, etc.  Since the process to correct these issues varies across Avitek’s order entry systems, there is no consistent follow-up and resolution for such issues. Orders end up getting lost and delayed in the system, causing extreme customer dissatisfaction.
 The business has indicated that a new credit card fraud detection system must be put in place before the end of the year, in order to thwart credit card abuses. A consistent fraud mechanism will require the credit validation process to be consolidated across all order entry systems.  
 
-The first step will be to provide a consistent interface to all order entry applications for credit validation.  Initially, the consolidated credit validation service will be hosted in-house to control quality; however, once the interface has been stabilized, this service will be outsourced to a third party provider.  So what will be done now, means that, in the future, when Avitek decides to outsource credit validation to an external provider, this can be accomplished without impacting existing applications.  
+The first step will be to provide a consistent interface to all order entry applications for credit validation.  The consolidated credit validation service will be hosted in-house to control quality; however, once the interface has been stabilized, this service will be outsourced to a third party provider.  So what will be done now, means that, in the future, when Avitek decides to outsource credit validation to an external provider, this can be accomplished without impacting existing applications.  
 
 In this section, you will build your SOA Suite 12c composite. This composite will provide a consistent experience to all order entry applications for credit validation.
 
