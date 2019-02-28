@@ -10,7 +10,7 @@ This is the second labs that are part of the **SOACS** Workshop.
 
 This lab is broken down into the following parts –
 
-- Building a SOA Composite. It covers modifying the DB Adapter to reflect your particular cloud environment.
+- Building a SOA Composite. It covers modifying the DB Adapter to reflect your particular cloud environment on OCI.
 
 - Deploying the composite by generating SAR file in JDeveloper; and import into SOAcs via Oracle Enterprise Manager Fusion Middleware Control (EM FMWC).
 
@@ -18,8 +18,8 @@ The activities in this document aim to cover features such as:
 
 - SOA Design Times in JDeveloper for SOA. This can be downloaded from https://bit.ly/2STiSVM
 
-- Upgrade and move SOA Composites from Classic or JDeveloper to SOAcs on OCI
-- SOASuite12c_Tutorial.zip, leads you step by step through building a process order application with Oracle SOA Suite 12c. The focus today is **to build/rebuild** validatePayment on the new OCI
+- Move Validate Payment SOA Composites from SOAcs on Classic to SOAcs on OCI
+- Please review the SOASuite12c_Tutorial.zip. The tutorial provides context about validate payment service and building a process order application with Oracle SOA Suite 12c. The focus today is **to rebuild** validatePayment from Classic to new OCI
 -  Please download this SOASuite12c_Tutorial zip file from https://bit.ly/2Sm7Xin
 
 ## Validate Payment: SOA Composites 
@@ -38,9 +38,9 @@ In this section, you will build your SOA Suite 12c composite. This composite wil
 
 -   Create Datasources and update the Database Adapter
 
--   Start JDeveloper 12.2.1.3.0
+-   Open SOA composer on SOAcs Classic
 
--	Open the SOA composite application provided from Confluence
+-	Open the SOA composite application provided, downloaded from Confluence
 
 -	Review the various components of the composite
 
